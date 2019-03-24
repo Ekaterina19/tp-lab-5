@@ -1,0 +1,193 @@
+===================================================================================================
+
+ Name group is PMI .
+ Count of students in the group = 24
+--------------------------------------------------------------------------------------------------
+|1|	0: Patrick Nathaniel Brooks  |3|
+Marks :3 5 3 3 5 
+|2|	2: Logan Antonio Hughes  |3|
+Marks :3 3 2 5 4 
+|3|	3: Kevin Isaac Morgan  |3|
+Marks :5 5 2 2 2 
+|4|	5: Ethan Joshua Morris  |4|
+Marks :4 5 4 4 5 
+|5|	7: Jason Jacob Reed  |3|
+Marks :5 2 4 5 3 
+|6|	9: Zachary Justin Gray  |4|
+Marks :2 4 5 4 5 
+|7|	10: Jaden Richard Torres  |3|
+Marks :3 5 5 4 2 
+|8|	11: Aidan Justin Young  |3|
+Marks :5 4 4 3 3 
+|9|	12: Hayden Kyle Rodriguez  |3|
+Marks :3 4 5 3 3 
+|10|	14: Jack Dylan Harris  |3|
+Marks :4 3 2 4 5 
+|11|	15: Juan Bryan Flores  |3|
+Marks :2 3 4 3 3 
+|12|	16: Mason Sebastian Sanders  |3|
+Marks :5 3 4 2 3 
+|13|	17: Diego William Robinson  |3|
+Marks :2 3 4 3 5 
+|14|	18: Jeremiah Hayden Powell  |3|
+Marks :3 2 3 4 3 
+|15|	19: Ian Jacob Green  |3|
+Marks :5 3 4 2 2 
+|16|	20: Jack Blake Wright  |4|
+Marks :5 5 4 2 5 
+|17|	21: Jacob Thomas Hill  |3|
+Marks :2 2 5 5 4 
+|18|	22: Jordan Thomas Rodriguez  |3|
+Marks :2 2 4 4 5 
+|19|	23: Luke Angel Rodriguez  |3|
+Marks :3 4 4 5 3 
+|20|	24: Lauren Sofia Phillips  |3|
+Marks :5 2 2 3 4 
+|21|	25: Rachel Jessica Gray  |4|
+Marks :5 5 5 2 4 
+|22|	27: Victoria Maria Morris  |4|
+Marks :2 5 5 4 5 
+|23|	28: Gabriella Sophia Wright  |4|
+Marks :3 5 4 4 4 
+|24|	29: Alexandra Kaylee Barnes  |3|
+Marks :3 3 2 4 5 
+--------------------------------------------------------------------------------------------------
+Avarage Mark in Group = 3
+--------------------------------------------------------------------------------------------------
+Head of group is 5 Ethan Joshua Morris
+===================================================================================================
+===================================================================================================
+
+===================================================================================================
+
+ Name group is PI .
+ Count of students in the group = 28
+--------------------------------------------------------------------------------------------------
+|1|	34: Jordan Vanessa Walker  |3|
+Marks :5 2 2 4 2 
+|2|	35: Isabella Vanessa Edwards  |4|
+Marks :5 2 4 5 5 
+|3|	36: Lillian Sara Lee  |3|
+Marks :3 5 4 4 2 
+|4|	37: Victoria Michelle Clark  |3|
+Marks :2 2 3 5 5 
+|5|	38: Emma Rebecca Richardson  |4|
+Marks :2 3 5 5 5 
+|6|	39: Gavin Diego Peterson  |4|
+Marks :4 5 5 5 2 
+|7|	40: Xavier Cody Bennett  |3|
+Marks :3 4 5 4 2 
+|8|	41: Samuel Julian Wilson  |3|
+Marks :5 3 3 3 4 
+|9|	43: Colin Daniel Campbell  |3|
+Marks :3 4 5 3 3 
+|10|	44: Mason Dominic Gonzales  |4|
+Marks :4 4 5 5 5 
+|11|	45: Isaiah Eric Watson  |3|
+Marks :2 2 4 3 4 
+|12|	46: Joshua Antonio Peterson  |3|
+Marks :2 2 5 4 3 
+|13|	47: Jayden Carlos Griffin  |3|
+Marks :3 3 3 3 3 
+|14|	48: Ethan Colin Jenkins  |3|
+Marks :5 3 2 3 4 
+|15|	49: Jesse Ryan Griffin  |4|
+Marks :5 5 2 5 5 
+|16|	50: Jesus Jason Brooks  |3|
+Marks :3 3 4 4 4 
+|17|	51: Samuel Adam Turner  |4|
+Marks :5 3 5 4 4 
+|18|	52: Jose Adrian Moore  |3|
+Marks :4 3 5 2 4 
+|19|	53: Jeremiah Cameron Ross  |4|
+Marks :5 3 4 5 3 
+|20|	54: Kimberly Amelia Martin  |4|
+Marks :2 5 4 4 5 
+|21|	55: Sarah Destiny Turner  |3|
+Marks :3 3 5 2 5 
+|22|	56: Audrey Natalie Henderson  |4|
+Marks :3 5 2 5 5 
+|23|	58: Sara Hailey Hayes  |3|
+Marks :2 2 3 5 5 
+|24|	59: Amber Kimberly Taylor  |3|
+Marks :2 2 2 5 5 
+|25|	60: Abigail Irea Kelly  |3|
+Marks :3 4 5 5 2 
+|26|	61: Danielle Audrey Edwards  |3|
+Marks :4 4 2 5 4 
+|27|	62: Lauren Leah Price  |3|
+Marks :4 4 4 2 2 
+|28|	63: Mary Kylie Wilson  |3|
+Marks :4 3 4 4 4 
+--------------------------------------------------------------------------------------------------
+Avarage Mark in Group = 3
+--------------------------------------------------------------------------------------------------
+Head of group is 56 Audrey Natalie Henderson
+===================================================================================================
+===================================================================================================
+
+===================================================================================================
+
+ Name group is FM .
+ Count of students in the group = 26
+--------------------------------------------------------------------------------------------------
+|1|	60: Abigail Irea Kelly  |3|
+Marks :3 4 5 5 2 
+|2|	61: Danielle Audrey Edwards  |3|
+Marks :4 4 2 5 4 
+|3|	62: Lauren Leah Price  |3|
+Marks :4 4 4 2 2 
+|4|	63: Mary Kylie Wilson  |3|
+Marks :4 3 4 4 4 
+|5|	64: Kaylee Natalie Hayes  |3|
+Marks :4 2 4 3 2 
+|6|	65: Kylie Trinity Bennett  |3|
+Marks :2 3 2 5 4 
+|7|	67: Ariana Marissa Hughes  |3|
+Marks :4 5 2 3 4 
+|8|	68: Maya Julia Johnson  |3|
+Marks :2 2 3 3 5 
+|9|	69: Trinity Chloe Jones  |3|
+Marks :3 5 4 2 5 
+|10|	70: Riley Alyssa SandersCarlos   |3|
+Marks :4 2 3 5 3 
+|11|	71: Sean Chase Bennett  |3|
+Marks :4 3 4 5 2 
+|12|	72: Alejandro Jayden Rivera  |3|
+Marks :3 3 5 3 2 
+|13|	73: Isaiah Alexander Green  |3|
+Marks :3 4 4 2 3 
+|14|	74: Brandon Aidan Martin  |4|
+Marks :3 5 5 4 3 
+|15|	75: Hunter Xavier Gonzalez  |3|
+Marks :3 2 5 2 5 
+|16|	76: Noah Luis Morgan  |3|
+Marks :5 3 4 3 4 
+|17|	79: Timothy Angel Adams  |4|
+Marks :4 3 5 5 3 
+|18|	80: Aidan Jose Mitchell  |3|
+Marks :5 2 3 5 4 
+|19|	81: Owen Gavin Campbell  |3|
+Marks :2 5 2 3 3 
+|20|	82: Caleb Aidan Cooper  |3|
+Marks :2 3 5 3 4 
+|21|	83: Aidan Noah Henderson  |3|
+Marks :5 3 2 5 2 
+|22|	84: Carter Jackson Bell  |3|
+Marks :5 5 3 2 2 
+|23|	85: Cody Jeremiah James  |4|
+Marks :5 2 5 5 5 
+|24|	86: Jesus Robert Green  |3|
+Marks :5 3 2 4 4 
+|25|	87: Luis Jeremiah Ward  |4|
+Marks :4 5 3 4 5 
+|26|	89: Anna Brooke Clark  |3|
+Marks :4 2 2 4 4 
+--------------------------------------------------------------------------------------------------
+Avarage Mark in Group = 3
+--------------------------------------------------------------------------------------------------
+Head of group is 69 Trinity Chloe Jones
+===================================================================================================
+===================================================================================================
+
+Count of desided students = 12
