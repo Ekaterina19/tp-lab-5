@@ -8,18 +8,18 @@
 
 int main()
 {
-	// srand(time(0));
-	// Deanery HSE("Pupiles.txt", "groupName.txt");
-	// HSE.getStudent();
-	// HSE.getGroup(30); //true
-	// HSE.getMarks(5);
-	// HSE.setHeadinGroups();
-	// HSE.excludeDad();
-	// HSE.moveStudent("Gorshkova Ekaterina M", HSE.getGroupinD(std::string("PMI")));// false
-	// HSE.moveStudent("Patrick Nathaniel Brooks", HSE.getGroupinD(std::string("P")));//false
+	srand(time(0));
+	deanery hse("Pupiles.txt", "groupname.txt");
+	hse.getstudent();
+	//hse.getgroup(30); //true
+	hse.getmarks(5);
+	hse.setheadingroups();
+	hse.excludedad();
+	//hse.movestudent("gorshkova ekaterina m", hse.getgroupind(std::string("pmi")));// false
+	//hse.movestudent("patrick nathaniel brooks", hse.getgroupind(std::string("p")));//false
 
-	// HSE.getInfo();
-	// HSE.putInfotoFILE("out.txt");
+	hse.getinfo();
+	hse.putinfotofile("out.txt");
 	
 	
 	// system("pause");
