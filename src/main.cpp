@@ -9,17 +9,17 @@
 int main()
 {
 	srand(time(0));
-	deanery hse("Pupiles.txt", "groupname.txt");
-	hse.getstudent();
-	//hse.getgroup(30); //true
-	hse.getmarks(5);
-	hse.setheadingroups();
-	hse.excludedad();
-	//hse.movestudent("gorshkova ekaterina m", hse.getgroupind(std::string("pmi")));// false
-	//hse.movestudent("patrick nathaniel brooks", hse.getgroupind(std::string("p")));//false
+	Deanery hse("Pupiles.txt", "groupName.txt");
+	hse.getStudent();
+	//hse.getGroup(30); //true
+	hse.getMarks(5);
+	hse.setHeadinGroups();
+	hse.excludeDad();
+	//hse.moveStudent("gorshkova ekaterina m", hse.getgroupind(std::string("pmi")));// false
+	//hse.moveStudent("patrick nathaniel brooks", hse.getgroupind(std::string("p")));//false
 
-	hse.getinfo();
-	hse.putinfotofile("out.txt");
+	hse.getInfo();
+	hse.putInfotoFILE("out.txt");
 	
 	
 	// system("pause");
